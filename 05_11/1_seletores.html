@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        :root{
+            --back: red;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        span:first-child{
+            background-color: var(--back);
+        }
+
+        p::first-letter {
+            color: var(--back);
+            font-variant: small-caps;
+            font-size: 40px;
+        }
+
+        [class~="fn"]{
+            background-color: green;
+        }
+
+        li:last-child{
+            background-color: var(--back);
+        }
+    </style>
+</head>
+<body>
+    <div>div</div>
+    <div class="c1">
+        <span>span 1</span>
+        <p class="p1">Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis de denguis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Quem num gosta di mé, boa gentis num é. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis!</p>
+        
+        <span>span 3</span>
+    </div>
+    <p></p>
+    <span>span 2</span>
+    
+    <ul>
+        <li>item</li>
+        <li>item</li>
+        <li class="fn pt">item</li>
+        <li>item</li>
+        <li>item</li>
+    </ul>
+    
+</body>
+</html>

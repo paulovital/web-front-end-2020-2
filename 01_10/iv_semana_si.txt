@@ -1,0 +1,685 @@
+05/11/2012 18:36:03;30793;Diego Vicente
+05/11/2012 18:36:11;30137;João Paulo Fleck
+05/11/2012 18:36:42;30021;Augusto Lazzarotto de Lima
+05/11/2012 18:43:11;32117;Gláucio Ricardo Vivian
+05/11/2012 18:43:38;30465;Rony Rodrigues Correia
+05/11/2012 18:44:31;32049;Lucas Zamim
+05/11/2012 18:44:34;31141;Carim Maria Ribeiro
+05/11/2012 18:44:37;31448;Rafael Lordi
+05/11/2012 18:44:45;30205;Mateus Berlatto da Rosa
+05/11/2012 18:47:33;32285;Tiago Perlin
+05/11/2012 18:50:27;33343;Adriana Pereira
+05/11/2012 18:55:22;31875;Marcio Andre Lowe
+05/11/2012 18:56:25;30922;Luceval do Prado Pereira Filho
+05/11/2012 18:58:19;33435;Braulio de Avila Rosa Junior
+05/11/2012 18:58:25;31288;Laíne Vaz da Silva
+05/11/2012 18:58:29;32063;Marcos Antonio Cavasin
+05/11/2012 18:59:25;31592;Rosiane Medeiros Manfio
+05/11/2012 18:59:28;31547;Jaqueline Pereira da Silva
+05/11/2012 18:59:35;31455;Diego Couto de Carvalho
+05/11/2012 18:59:39;31622;Andréia Teixeira Parnow
+05/11/2012 18:59:43;31615;Juliane Moraes Ulbrich
+05/11/2012 18:59:53;33497;Edinara Filipiak de Cristo
+05/11/2012 18:59:57;33503;Fernando de Cristo
+05/11/2012 19:00:21;30373;Fabrício Herpich
+05/11/2012 19:00:23;30366;Jaqueson Ricardo Pertile
+05/11/2012 19:00:34;33589;Angelica Alessandra Skalee
+05/11/2012 19:00:36;33237;Carina Fernanda Zortea
+05/11/2012 19:01:34;32360;Marcelo Garbin
+05/11/2012 19:02:02;30120;Rômulo Vanzin
+05/11/2012 19:02:51;30441;Maria Helena Franciscatto
+05/11/2012 19:02:55;30106;Matias Lazarotto
+05/11/2012 19:04:10;31752;Clair Da Costa Fontoura
+05/11/2012 19:04:14;33534;Vaneza da Silveira
+05/11/2012 19:04:17;32155;Sidinei de Souza Ulbrik
+05/11/2012 19:04:19;32131;Maicon Falkemback
+05/11/2012 19:04:22;32193;Felipe Douglas de Albernaz Pereira
+05/11/2012 19:04:25;32186;Aluisio de Avila
+05/11/2012 19:04:30;32735;Jardel Buzatto
+05/11/2012 19:05:05;30731;Joel da Silva
+05/11/2012 19:05:13;32322;Gustavo Bathu Paulus
+05/11/2012 19:05:18;31493;Delonice da Rosa Barbosa
+05/11/2012 19:05:22;31561;Líria da Rosa Barbosa
+05/11/2012 19:05:24;31486;Silvana Pires de Lima
+05/11/2012 19:05:27;31516;Cleusa Iolanda Aguiar
+05/11/2012 19:05:31;30182;Marcelo Tomczak
+05/11/2012 19:05:35;31530;Susane da Silva de Paula
+05/11/2012 19:05:40;31585;Andreia Antunes Teixeira
+05/11/2012 19:05:43;32841;Mateus Henrique Knaak Buttura
+05/11/2012 19:05:47;31776;Elizandra Ribeiro Correa
+05/11/2012 19:05:59;30557;Neimir Ruggini
+05/11/2012 19:06:26;30892;Roberto Franciscatto
+05/11/2012 19:06:43;33510;Marciane Borba Ribas
+05/11/2012 19:06:48;31660;Francieli Silva dos Santos
+05/11/2012 19:06:50;33527;Luciane Pinto da Silva
+05/11/2012 19:06:53;30359;André Paulo Sartori
+05/11/2012 19:06:58;31653;Maguisiel da Silva Santos
+05/11/2012 19:07:00;31707;Dirceu Oliveira da Costa
+05/11/2012 19:07:03;31783;Wilmar dos Santos Figueiró
+05/11/2012 19:07:05;30779;Guilherme Bernardi
+05/11/2012 19:07:23;32094;William da Silva
+05/11/2012 19:07:29;30687;Natanael Santi Dalbianco
+05/11/2012 19:07:39;31714;Marinez Dornelles
+05/11/2012 19:07:43;32124;Mateus Roberto Gerber
+05/11/2012 19:07:45;31295;Deise Estival
+05/11/2012 19:07:48;31479;Celio Picua
+05/11/2012 19:07:50;31332;Henrique Kerkhefen dos Santos
+05/11/2012 19:08:15;32803;Jhonata Marcolan
+05/11/2012 19:08:26;31608;Cassiano Tosetto
+05/11/2012 19:08:31;31318;Sinara Franco
+05/11/2012 19:08:33;31264;Tiago Marion Franco
+05/11/2012 19:08:35;31509;Gilzandre Fergutz
+05/11/2012 19:08:38;31684;Rafael Teixeira Morais
+05/11/2012 19:08:41;33015;Sandra Novello
+05/11/2012 19:08:54;32308;Marlos Piazza
+05/11/2012 19:09:20;33541;Eloi de Fatima dos Santos
+05/11/2012 19:09:22;31646;Cleidir do Amaral e Silva
+05/11/2012 19:10:33;30472;Augusto Rossetto
+05/11/2012 19:12:08;30540;Teresinha Letícia da Silva
+05/11/2012 19:13:45;31677;Jonas da Silva
+05/11/2012 19:13:48;31745;Catia Tamara Scherer
+05/11/2012 19:13:51;31738;Andriéli Schmidt
+05/11/2012 19:13:53;31790;Angela Roberta da Silva
+05/11/2012 19:13:55;31721;Camila Medeiros Pereira
+05/11/2012 19:13:57;31769;Cledinara Albanio Pereira
+05/11/2012 19:14:01;32087;Juliano dos Santos
+05/11/2012 19:14:43;33565;Douglas Piovesan
+05/11/2012 19:14:58;31394;Eliane Bublitz
+05/11/2012 19:15:02;31462;Cassiano Fernandes
+05/11/2012 19:15:46;32827;Erivelton Paulo Da  Silva Rubin
+05/11/2012 19:15:48;32865;Davi Daniel Gemmer
+05/11/2012 19:17:04;33763;Douglas Fernandes
+05/11/2012 19:19:08;30342;Jacson Luis Krotz
+05/11/2012 19:19:28;33152;Cleomar João Theisen
+05/11/2012 19:19:35;33619;Daniela Garlet
+05/11/2012 19:19:39;33695;Juciele Aparecida da Silva
+05/11/2012 19:19:42;33718;Felipe Copceski Rossatto
+05/11/2012 19:19:44;33725;Adriano de Barros
+05/11/2012 19:20:00;33756;Cristian Batista
+05/11/2012 19:20:02;31936;Emerson Luiz Balestrin
+05/11/2012 19:20:04;33657;Marcelo Lavratti
+05/11/2012 19:20:06;32209;Robson da Silva
+05/11/2012 19:20:10;33732;Naidu Gasparetto
+05/11/2012 19:20:11;32384;Orley Dyeison da Silva
+05/11/2012 19:20:16;33633;Claudino Kosooski 
+05/11/2012 19:20:18;31226;Denis da Silva Passos
+05/11/2012 19:20:21;32315;Juliano Barbosa Prettz
+05/11/2012 19:20:23;32889;Mateus Chimello
+05/11/2012 19:20:26;32896;Maik Frizon
+05/11/2012 19:20:28;33749;Jefferson Dalanhol
+05/11/2012 19:20:35;31325;João Paulo Vieira
+05/11/2012 19:20:42;33367;Carine Piovesan Lopes
+05/11/2012 19:20:44;30618;Mateus da Rosa Zanatta
+05/11/2012 19:20:49;30625;Regis Titon
+05/11/2012 19:20:52;30885;Rafael Bertoletti
+05/11/2012 19:20:55;32902;Luis Henrique Forchesatto
+05/11/2012 19:21:00;33473;Stefano Zibell
+05/11/2012 19:21:02;32339;Daniel Prediger
+05/11/2012 19:21:04;32346;Ricardo Augusto Ferrari
+05/11/2012 19:21:06;31868;Marcos Angelo Stefanello
+05/11/2012 19:21:08;31851;Jose Torres
+05/11/2012 19:21:11;33596;Matheus Orlandi de Castro
+05/11/2012 19:21:25;30748;Cláudio Roberto dos Santos
+05/11/2012 19:22:00;33640;Ricardo Fréu
+05/11/2012 19:22:04;32629;Rafael Antonio Vitalli
+05/11/2012 19:22:58;33480;Dennis Haubert Ponssoni
+05/11/2012 19:23:05;30144;Darlan Dieterich
+05/11/2012 19:23:10;30403;Caetano Teston Iung
+05/11/2012 19:23:29;33022;Felipe Gonçalves
+05/11/2012 19:23:33;33602;Jean Cesar Machado
+05/11/2012 19:24:05;31387;Natiel Cazarotto Chiavegatti
+05/11/2012 19:24:09;31431;Jarbas Neumann
+05/11/2012 19:24:15;31059;Bruno Nascimento de Figureiredo
+05/11/2012 19:24:17;31172;Victor Monteiro Silva
+05/11/2012 19:24:19;32018;Thiago dos Santos Rocha
+05/11/2012 19:24:25;31554;Raquel dos Reis Araujo
+05/11/2012 19:24:28;31578;Janaína Franciele Soares
+05/11/2012 19:25:04;30168;Christopher Paladino do Nascimento
+05/11/2012 19:25:11;31400;Clebeson Zanchetta Moura
+05/11/2012 19:27:57;33770;Tobias da Silva
+05/11/2012 19:29:08;33381;Lucas Wilhelm
+05/11/2012 19:29:11;33442;Gabriela Conterno Rodrigues
+05/11/2012 19:29:13;32001;Aline Ferreira Kleiniebing
+05/11/2012 19:29:52;33466;Cátia dos Reis Machado
+05/11/2012 19:30:15;30373;Fabrício Herpich
+05/11/2012 19:30:18;30366;Jaqueson Ricardo Pertile
+05/11/2012 19:31:09;31066;Grasieli da Silva
+05/11/2012 19:32:31;32377;Cristian Roberto Walter
+05/11/2012 19:33:00;30014;Bruno Batista Boniati
+05/11/2012 19:34:54;30960;Francieli Zanardi
+05/11/2012 19:34:58;30274;Juliana de Fatima da Silva
+05/11/2012 19:36:16;30601;Dioni da Rosa
+05/11/2012 19:40:39;32100;Geanmarcos Garcia Terra
+05/11/2012 19:42:40;31653;Maguisiel da Silva Santos
+05/11/2012 19:43:03;30052;Anderson Rodrigues Moro
+05/11/2012 19:45:20;33336;Jorge Luis Carneiro dos Santos Segundo
+05/11/2012 19:48:09;33671;Adriana Tederke
+05/11/2012 19:48:27;33688;Mateus Volpatto
+05/11/2012 19:48:40;31882;Lucas Cassiano dos Santos
+05/11/2012 19:55:16;30434;Sergio Okamoto
+05/11/2012 19:55:18;31363;Andreia Barcarol
+05/11/2012 19:56:21;30526;Michel Delevatti de Quadros
+05/11/2012 19:56:22;31271;Augusto Cássion Schefer
+05/11/2012 19:58:16;30267;Maria Teresa Correa Pavan
+05/11/2012 19:58:29;30236;Dione Dupont Eckhardt
+05/11/2012 20:02:47;30090;Marcelo Kunz
+05/11/2012 20:05:25;30038;Ezequiel Prezotto
+05/11/2012 20:05:30;30083;Guilherme Descovi Chierentin
+05/11/2012 20:13:11;33626;Cassio Michels Teixeira
+05/11/2012 20:13:14;33701;Júlio Wilhelm Moerschbächer
+05/11/2012 20:13:15;33572;Bernardo Andre Mantovani
+05/11/2012 20:19:52;32292;Fillipi Garcia Madrid
+05/11/2012 20:20:00;30724;Iulisloi Zacarias
+05/11/2012 20:50:32;30076;Ricardo Antunes Vieira
+05/11/2012 20:51:56;30014;Bruno Batista Boniati
+05/11/2012 21:08:27;32407;Maik Basso
+06/11/2012 07:54:12;30984;Bruno Baldez Correa
+06/11/2012 07:54:20;30151;Giani Petri
+06/11/2012 07:54:28;30571;Taciano Balardin de Oliveira
+06/11/2012 08:03:54;30014;Bruno Batista Boniati
+06/11/2012 08:03:57;31387;Natiel Cazarotto Chiavegatti
+06/11/2012 08:09:28;32285;Tiago Perlin
+06/11/2012 08:09:35;30014;Bruno Batista Boniati
+06/11/2012 08:15:55;30731;Joel da Silva
+06/11/2012 08:19:40;30892;Roberto Franciscatto
+06/11/2012 08:24:08;31226;Denis da Silva Passos
+06/11/2012 08:27:55;30052;Anderson Rodrigues Moro
+06/11/2012 08:31:45;32162;Darlan Eziquiel Felisberto da Silva
+06/11/2012 08:44:54;31134;Paulo Henrique Vianna
+06/11/2012 08:51:33;30809;Leopoldo Soares de Melo Junior
+06/11/2012 08:56:31;30380;Tiago Gerke
+06/11/2012 08:56:41;31998;Andres Jessé Porfirio
+06/11/2012 08:58:16;30205;Mateus Berlatto da Rosa
+06/11/2012 09:03:09;32148;Luma Alves Lopes
+06/11/2012 09:07:58;32179;Allan Richard Lial Viana
+06/11/2012 09:13:34;30571;Taciano Balardin de Oliveira
+06/11/2012 09:13:59;30151;Giani Petri
+06/11/2012 09:17:04;30359;André Paulo Sartori
+06/11/2012 09:17:54;30496;Karina Wiechork
+06/11/2012 09:18:26;32117;Gláucio Ricardo Vivian
+06/11/2012 09:39:06;31059;Bruno Nascimento de Figureiredo
+06/11/2012 09:39:08;32018;Thiago dos Santos Rocha
+06/11/2012 09:39:10;31172;Victor Monteiro Silva
+06/11/2012 09:50:08;31882;Lucas Cassiano dos Santos
+06/11/2012 09:50:10;33336;Jorge Luis Carneiro dos Santos Segundo
+06/11/2012 09:50:22;30908;Ezequiel Juliano Müller
+06/11/2012 10:01:36;30038;Ezequiel Prezotto
+06/11/2012 10:06:49;30045;Marcelo Henrique Casali
+06/11/2012 10:07:18;30502;Livio Leoncio Ribeiro
+06/11/2012 10:10:21;30090;Marcelo Kunz
+06/11/2012 10:23:33;30205;Mateus Berlatto da Rosa
+06/11/2012 10:32:45;30366;Jaqueson Ricardo Pertile
+06/11/2012 10:32:46;30373;Fabrício Herpich
+06/11/2012 10:44:15;30465;Rony Rodrigues Correia
+06/11/2012 10:50:12;33503;Fernando de Cristo
+06/11/2012 10:50:58;30779;Guilherme Bernardi
+06/11/2012 11:26:28;31127;Angela Mazzonetto
+06/11/2012 11:26:30;32247;Fernanda Buriol
+06/11/2012 18:53:42;30021;Augusto Lazzarotto de Lima
+06/11/2012 18:55:28;33343;Adriana Pereira
+06/11/2012 18:57:51;31479;Celio Picua
+06/11/2012 18:57:59;31288;Laíne Vaz da Silva
+06/11/2012 18:58:31;30205;Mateus Berlatto da Rosa
+06/11/2012 18:58:36;30205;Mateus Berlatto da Rosa
+06/11/2012 18:59:08;32377;Cristian Roberto Walter
+06/11/2012 18:59:15;32506;Odair José Basso
+06/11/2012 18:59:17;33015;Sandra Novello
+06/11/2012 18:59:19;32988;Clarice Lucia Krasnievicz
+06/11/2012 19:00:07;31530;Susane da Silva de Paula
+06/11/2012 19:00:11;33534;Vaneza da Silveira
+06/11/2012 19:00:14;31752;Clair Da Costa Fontoura
+06/11/2012 19:00:17;30182;Marcelo Tomczak
+06/11/2012 19:00:20;31455;Diego Couto de Carvalho
+06/11/2012 19:00:22;30328;Jean Carlos Dalcero
+06/11/2012 19:00:40;31493;Delonice da Rosa Barbosa
+06/11/2012 19:00:43;31561;Líria da Rosa Barbosa
+06/11/2012 19:00:46;31486;Silvana Pires de Lima
+06/11/2012 19:00:49;32292;Fillipi Garcia Madrid
+06/11/2012 19:00:52;30526;Michel Delevatti de Quadros
+06/11/2012 19:14:02;31578;Janaína Franciele Soares
+06/11/2012 19:14:15;30359;André Paulo Sartori
+06/11/2012 19:14:16;30496;Karina Wiechork
+06/11/2012 19:14:36;30922;Luceval do Prado Pereira Filho
+06/11/2012 19:14:40;31608;Cassiano Tosetto
+06/11/2012 19:14:42;31677;Jonas da Silva
+06/11/2012 19:14:44;31509;Gilzandre Fergutz
+06/11/2012 19:14:50;31066;Grasieli da Silva
+06/11/2012 19:15:05;32131;Maicon Falkemback
+06/11/2012 19:15:08;32124;Mateus Roberto Gerber
+06/11/2012 19:15:10;32155;Sidinei de Souza Ulbrik
+06/11/2012 19:15:12;31431;Jarbas Neumann
+06/11/2012 19:15:15;31875;Marcio Andre Lowe
+06/11/2012 19:15:21;32162;Darlan Eziquiel Felisberto da Silva
+06/11/2012 19:15:26;31653;Maguisiel da Silva Santos
+06/11/2012 19:15:37;32209;Robson da Silva
+06/11/2012 19:15:40;31325;João Paulo Vieira
+06/11/2012 19:16:03;31271;Augusto Cássion Schefer
+06/11/2012 19:16:13;31936;Emerson Luiz Balestrin
+06/11/2012 19:16:16;33244;Juliano Alba
+06/11/2012 19:16:18;33251;Tamara Norbak
+06/11/2012 19:16:21;32278;Lusimeri Orliczek Wink
+06/11/2012 19:16:25;33565;Douglas Piovesan
+06/11/2012 19:16:37;30090;Marcelo Kunz
+06/11/2012 19:16:43;30083;Guilherme Descovi Chierentin
+06/11/2012 19:16:45;30601;Dioni da Rosa
+06/11/2012 19:16:50;33701;Júlio Wilhelm Moerschbächer
+06/11/2012 19:17:57;31516;Cleusa Iolanda Aguiar
+06/11/2012 19:17:59;31776;Elizandra Ribeiro Correa
+06/11/2012 19:18:00;31585;Andreia Antunes Teixeira
+06/11/2012 19:18:05;32001;Aline Ferreira Kleiniebing
+06/11/2012 19:18:08;31783;Wilmar dos Santos Figueiró
+06/11/2012 19:19:08;30779;Guilherme Bernardi
+06/11/2012 19:19:11;30472;Augusto Rossetto
+06/11/2012 19:19:18;30403;Caetano Teston Iung
+06/11/2012 19:19:26;30540;Teresinha Letícia da Silva
+06/11/2012 19:19:35;33497;Edinara Filipiak de Cristo
+06/11/2012 19:19:37;33503;Fernando de Cristo
+06/11/2012 19:20:59;32629;Rafael Antonio Vitalli
+06/11/2012 19:21:00;32322;Gustavo Bathu Paulus
+06/11/2012 19:21:57;31318;Sinara Franco
+06/11/2012 19:21:59;31264;Tiago Marion Franco
+06/11/2012 19:22:37;31240;Idelvan Felipe Wolhmuth
+06/11/2012 19:22:53;30144;Darlan Dieterich
+06/11/2012 19:22:56;30144;Darlan Dieterich
+06/11/2012 19:23:06;31363;Andreia Barcarol
+06/11/2012 19:23:07;33732;Naidu Gasparetto
+06/11/2012 19:24:07;31547;Jaqueline Pereira da Silva
+06/11/2012 19:24:45;31592;Rosiane Medeiros Manfio
+06/11/2012 19:24:53;33770;Tobias da Silva
+06/11/2012 19:25:07;30137;João Paulo Fleck
+06/11/2012 19:26:53;30366;Jaqueson Ricardo Pertile
+06/11/2012 19:27:21;30373;Fabrício Herpich
+06/11/2012 19:27:38;30342;Jacson Luis Krotz
+06/11/2012 19:28:12;30960;Francieli Zanardi
+06/11/2012 19:28:15;32599;Juliano da Conceição
+06/11/2012 19:28:18;32339;Daniel Prediger
+06/11/2012 19:28:37;31851;Jose Torres
+06/11/2012 19:28:41;31868;Marcos Angelo Stefanello
+06/11/2012 19:29:44;30014;Bruno Batista Boniati
+06/11/2012 19:29:48;32285;Tiago Perlin
+06/11/2012 19:30:02;31523;Ricardo Pessotto
+06/11/2012 19:34:28;30267;Maria Teresa Correa Pavan
+06/11/2012 19:34:31;30236;Dione Dupont Eckhardt
+06/11/2012 19:34:40;30793;Diego Vicente
+06/11/2012 19:37:33;30274;Juliana de Fatima da Silva
+06/11/2012 19:37:41;31400;Clebeson Zanchetta Moura
+06/11/2012 19:37:48;30892;Roberto Franciscatto
+06/11/2012 19:37:49;31615;Juliane Moraes Ulbrich
+06/11/2012 19:37:51;31622;Andréia Teixeira Parnow
+06/11/2012 19:38:10;31684;Rafael Teixeira Morais
+06/11/2012 19:40:24;30434;Sergio Okamoto
+06/11/2012 19:41:32;30052;Anderson Rodrigues Moro
+06/11/2012 19:43:04;33640;Ricardo Fréu
+06/11/2012 19:49:02;32100;Geanmarcos Garcia Terra
+06/11/2012 19:53:02;32025;Gilmar Vendruscolo
+06/11/2012 20:26:25;33480;Dennis Haubert Ponssoni
+06/11/2012 20:32:58;33749;Jefferson Dalanhol
+06/11/2012 21:31:54;30038;Ezequiel Prezotto
+07/11/2012 13:17:45;30014;Bruno Batista Boniati
+07/11/2012 13:24:57;30274;Juliana de Fatima da Silva
+07/11/2012 13:25:02;31387;Natiel Cazarotto Chiavegatti
+07/11/2012 13:25:10;32988;Clarice Lucia Krasnievicz
+07/11/2012 13:25:12;30090;Marcelo Kunz
+07/11/2012 13:25:16;30106;Matias Lazarotto
+07/11/2012 13:25:22;30441;Maria Helena Franciscatto
+07/11/2012 13:25:29;30205;Mateus Berlatto da Rosa
+07/11/2012 13:25:30;30205;Mateus Berlatto da Rosa
+07/11/2012 13:26:46;30038;Ezequiel Prezotto
+07/11/2012 13:26:49;30779;Guilherme Bernardi
+07/11/2012 13:26:51;30243;Felipe Rodrigues Heydt
+07/11/2012 13:26:53;30045;Marcelo Henrique Casali
+07/11/2012 13:26:54;30083;Guilherme Descovi Chierentin
+07/11/2012 13:27:23;31240;Idelvan Felipe Wolhmuth
+07/11/2012 13:27:41;30496;Karina Wiechork
+07/11/2012 13:27:49;30359;André Paulo Sartori
+07/11/2012 13:28:39;33336;Jorge Luis Carneiro dos Santos Segundo
+07/11/2012 13:30:54;30731;Joel da Silva
+07/11/2012 13:32:14;30137;João Paulo Fleck
+07/11/2012 13:32:36;30144;Darlan Dieterich
+07/11/2012 13:33:30;30403;Caetano Teston Iung
+07/11/2012 13:33:35;33497;Edinara Filipiak de Cristo
+07/11/2012 13:34:24;30342;Jacson Luis Krotz
+07/11/2012 13:41:26;33343;Adriana Pereira
+07/11/2012 13:42:07;32285;Tiago Perlin
+07/11/2012 13:44:48;31400;Clebeson Zanchetta Moura
+07/11/2012 13:49:46;33503;Fernando de Cristo
+07/11/2012 13:52:54;30052;Anderson Rodrigues Moro
+07/11/2012 14:54:35;30014;Bruno Batista Boniati
+07/11/2012 14:55:04;31387;Natiel Cazarotto Chiavegatti
+07/11/2012 15:25:39;30342;Jacson Luis Krotz
+07/11/2012 15:26:41;31387;Natiel Cazarotto Chiavegatti
+07/11/2012 15:27:01;30021;Augusto Lazzarotto de Lima
+07/11/2012 15:32:04;30151;Giani Petri
+07/11/2012 15:32:04;30571;Taciano Balardin de Oliveira
+07/11/2012 18:58:43;30342;Jacson Luis Krotz
+07/11/2012 18:58:48;31387;Natiel Cazarotto Chiavegatti
+07/11/2012 18:58:51;30021;Augusto Lazzarotto de Lima
+07/11/2012 18:59:42;32384;Orley Dyeison da Silva
+07/11/2012 19:00:29;30205;Mateus Berlatto da Rosa
+07/11/2012 19:00:51;30045;Marcelo Henrique Casali
+07/11/2012 19:00:53;30137;João Paulo Fleck
+07/11/2012 19:01:12;30403;Caetano Teston Iung
+07/11/2012 19:02:07;33589;Angelica Alessandra Skalee
+07/11/2012 19:02:08;33237;Carina Fernanda Zortea
+07/11/2012 19:02:30;32353;Eliseu Garbin
+07/11/2012 19:02:32;32360;Marcelo Garbin
+07/11/2012 19:03:52;32988;Clarice Lucia Krasnievicz
+07/11/2012 19:05:01;31066;Grasieli da Silva
+07/11/2012 19:05:51;30779;Guilherme Bernardi
+07/11/2012 19:06:04;30182;Marcelo Tomczak
+07/11/2012 19:06:24;30472;Augusto Rossetto
+07/11/2012 19:06:40;33435;Braulio de Avila Rosa Junior
+07/11/2012 19:06:59;30731;Joel da Silva
+07/11/2012 19:07:16;33626;Cassio Michels Teixeira
+07/11/2012 19:07:19;30557;Neimir Ruggini
+07/11/2012 19:07:26;33701;Júlio Wilhelm Moerschbächer
+07/11/2012 19:07:32;32292;Fillipi Garcia Madrid
+07/11/2012 19:07:35;30724;Iulisloi Zacarias
+07/11/2012 19:08:35;32728;Ermenegildo Dos Santos
+07/11/2012 19:08:37;32773;Sonia Mara Da Silva Ribeiro
+07/11/2012 19:08:40;32872;Carina dos Santos Almeida
+07/11/2012 19:08:43;32667;Sidimara Zanella da Silva
+07/11/2012 19:08:48;32759;Giovane R. Correa
+07/11/2012 19:08:51;32636;Andrei Moura Talamini
+07/11/2012 19:08:55;32834;Leticia de Oliveira
+07/11/2012 19:08:58;32612;Maria Lenir Ardenghi Talamini
+07/11/2012 19:09:08;32605;Tatieli Rodrigues Ardenghi
+07/11/2012 19:09:11;32582;Vanessa Ardenghi Binelo Sartori
+07/11/2012 19:09:15;32575;Elena Ardenghi Binello
+07/11/2012 19:09:20;32704;Sandra Teresa Ardenghi
+07/11/2012 19:09:25;32711;Leila V. A. De Ardenghy
+07/11/2012 19:09:29;32568;Angela Claudia Chicatto De Oliveira
+07/11/2012 19:09:39;31479;Celio Picua
+07/11/2012 19:09:43;33343;Adriana Pereira
+07/11/2012 19:10:14;31240;Idelvan Felipe Wolhmuth
+07/11/2012 19:10:18;31318;Sinara Franco
+07/11/2012 19:10:27;31264;Tiago Marion Franco
+07/11/2012 19:11:04;32308;Marlos Piazza
+07/11/2012 19:11:35;32346;Ricardo Augusto Ferrari
+07/11/2012 19:11:54;33572;Bernardo Andre Mantovani
+07/11/2012 19:12:21;31325;João Paulo Vieira
+07/11/2012 19:12:32;32209;Robson da Silva
+07/11/2012 19:12:41;31936;Emerson Luiz Balestrin
+07/11/2012 19:13:28;31295;Deise Estival
+07/11/2012 19:13:51;33671;Adriana Tederke
+07/11/2012 19:13:53;33688;Mateus Volpatto
+07/11/2012 19:14:18;32087;Juliano dos Santos
+07/11/2012 19:14:27;30236;Dione Dupont Eckhardt
+07/11/2012 19:14:33;30793;Diego Vicente
+07/11/2012 19:14:45;32377;Cristian Roberto Walter
+07/11/2012 19:14:49;30083;Guilherme Descovi Chierentin
+07/11/2012 19:14:55;30601;Dioni da Rosa
+07/11/2012 19:15:05;31141;Carim Maria Ribeiro
+07/11/2012 19:15:07;31332;Henrique Kerkhefen dos Santos
+07/11/2012 19:15:19;30120;Rômulo Vanzin
+07/11/2012 19:15:22;30540;Teresinha Letícia da Silva
+07/11/2012 19:15:33;32094;William da Silva
+07/11/2012 19:15:50;31431;Jarbas Neumann
+07/11/2012 19:15:58;32506;Odair José Basso
+07/11/2012 19:16:08;32186;Aluisio de Avila
+07/11/2012 19:16:12;31394;Eliane Bublitz
+07/11/2012 19:16:16;31462;Cassiano Fernandes
+07/11/2012 19:16:18;33619;Daniela Garlet
+07/11/2012 19:16:20;32841;Mateus Henrique Knaak Buttura
+07/11/2012 19:16:27;32803;Jhonata Marcolan
+07/11/2012 19:16:32;33367;Carine Piovesan Lopes
+07/11/2012 19:16:34;30618;Mateus da Rosa Zanatta
+07/11/2012 19:16:37;30687;Natanael Santi Dalbianco
+07/11/2012 19:16:40;30144;Darlan Dieterich
+07/11/2012 19:16:44;33473;Stefano Zibell
+07/11/2012 19:16:53;33251;Tamara Norbak
+07/11/2012 19:17:02;30267;Maria Teresa Correa Pavan
+07/11/2012 19:17:05;33497;Edinara Filipiak de Cristo
+07/11/2012 19:17:11;33503;Fernando de Cristo
+07/11/2012 19:17:17;32407;Maik Basso
+07/11/2012 19:17:29;32063;Marcos Antonio Cavasin
+07/11/2012 19:17:40;33244;Juliano Alba
+07/11/2012 19:17:46;30168;Christopher Paladino do Nascimento
+07/11/2012 19:18:18;30922;Luceval do Prado Pereira Filho
+07/11/2012 19:18:33;33022;Felipe Gonçalves
+07/11/2012 19:18:42;33596;Matheus Orlandi de Castro
+07/11/2012 19:19:13;31875;Marcio Andre Lowe
+07/11/2012 19:19:54;33602;Jean Cesar Machado
+07/11/2012 19:20:03;33633;Claudino Kosooski 
+07/11/2012 19:20:06;30625;Regis Titon
+07/11/2012 19:20:22;30885;Rafael Bertoletti
+07/11/2012 19:20:29;32155;Sidinei de Souza Ulbrik
+07/11/2012 19:20:45;32278;Lusimeri Orliczek Wink
+07/11/2012 19:21:36;33152;Cleomar João Theisen
+07/11/2012 19:22:00;32339;Daniel Prediger
+07/11/2012 19:22:05;32896;Maik Frizon
+07/11/2012 19:22:13;31882;Lucas Cassiano dos Santos
+07/11/2012 19:22:52;33732;Naidu Gasparetto
+07/11/2012 19:23:00;31851;Jose Torres
+07/11/2012 19:23:36;31868;Marcos Angelo Stefanello
+07/11/2012 19:23:40;30595;André Luís Stefanello
+07/11/2012 19:23:50;30366;Jaqueson Ricardo Pertile
+07/11/2012 19:24:15;30496;Karina Wiechork
+07/11/2012 19:24:19;30434;Sergio Okamoto
+07/11/2012 19:24:25;32162;Darlan Eziquiel Felisberto da Silva
+07/11/2012 19:24:43;33770;Tobias da Silva
+07/11/2012 19:24:54;31363;Andreia Barcarol
+07/11/2012 19:24:57;32322;Gustavo Bathu Paulus
+07/11/2012 19:25:02;33749;Jefferson Dalanhol
+07/11/2012 19:25:45;33565;Douglas Piovesan
+07/11/2012 19:26:09;32315;Juliano Barbosa Prettz
+07/11/2012 19:26:32;33756;Cristian Batista
+07/11/2012 19:26:52;32285;Tiago Perlin
+07/11/2012 19:27:07;33015;Sandra Novello
+07/11/2012 19:27:19;32629;Rafael Antonio Vitalli
+07/11/2012 19:27:24;30298;Talliny Dalla Nora
+07/11/2012 19:28:42;30960;Francieli Zanardi
+07/11/2012 19:29:10;31288;Laíne Vaz da Silva
+07/11/2012 19:30:55;31455;Diego Couto de Carvalho
+07/11/2012 19:31:01;32100;Geanmarcos Garcia Terra
+07/11/2012 19:31:13;30052;Anderson Rodrigues Moro
+07/11/2012 19:32:36;30373;Fabrício Herpich
+07/11/2012 19:32:46;30038;Ezequiel Prezotto
+07/11/2012 19:32:51;30014;Bruno Batista Boniati
+07/11/2012 19:32:58;30090;Marcelo Kunz
+07/11/2012 19:34:45;33725;Adriano de Barros
+07/11/2012 19:34:48;33718;Felipe Copceski Rossatto
+07/11/2012 19:35:03;30274;Juliana de Fatima da Silva
+07/11/2012 19:35:19;33640;Ricardo Fréu
+07/11/2012 19:36:57;31387;Natiel Cazarotto Chiavegatti
+07/11/2012 19:38:55;30090;Marcelo Kunz
+07/11/2012 19:39:06;30106;Matias Lazarotto
+07/11/2012 19:39:07;30441;Maria Helena Franciscatto
+07/11/2012 19:39:46;30526;Michel Delevatti de Quadros
+07/11/2012 19:39:50;30519;William Rodrigues da Fonseca Rech
+07/11/2012 19:56:15;31271;Augusto Cássion Schefer
+07/11/2012 20:07:49;32025;Gilmar Vendruscolo
+07/11/2012 20:12:57;31400;Clebeson Zanchetta Moura
+07/11/2012 20:35:35;33763;Douglas Fernandes
+07/11/2012 20:44:25;30359;André Paulo Sartori
+07/11/2012 20:52:16;30014;Bruno Batista Boniati
+08/11/2012 19:01:06;30021;Augusto Lazzarotto de Lima
+08/11/2012 19:01:15;31066;Grasieli da Silva
+08/11/2012 19:01:27;32292;Fillipi Garcia Madrid
+08/11/2012 19:01:30;30526;Michel Delevatti de Quadros
+08/11/2012 19:01:31;33701;Júlio Wilhelm Moerschbächer
+08/11/2012 19:01:34;30083;Guilherme Descovi Chierentin
+08/11/2012 19:01:36;33626;Cassio Michels Teixeira
+08/11/2012 19:02:07;33589;Angelica Alessandra Skalee
+08/11/2012 19:02:09;33237;Carina Fernanda Zortea
+08/11/2012 19:02:47;32285;Tiago Perlin
+08/11/2012 19:04:03;31318;Sinara Franco
+08/11/2012 19:04:06;31264;Tiago Marion Franco
+08/11/2012 19:04:46;31493;Delonice da Rosa Barbosa
+08/11/2012 19:04:49;31486;Silvana Pires de Lima
+08/11/2012 19:04:51;31561;Líria da Rosa Barbosa
+08/11/2012 19:05:11;30205;Mateus Berlatto da Rosa
+08/11/2012 19:05:13;30205;Mateus Berlatto da Rosa
+08/11/2012 19:05:22;30205;Mateus Berlatto da Rosa
+08/11/2012 19:06:56;30731;Joel da Silva
+08/11/2012 19:07:06;31714;Marinez Dornelles
+08/11/2012 19:07:10;31646;Cleidir do Amaral e Silva
+08/11/2012 19:07:12;33541;Eloi de Fatima dos Santos
+08/11/2012 19:07:14;31516;Cleusa Iolanda Aguiar
+08/11/2012 19:07:16;31776;Elizandra Ribeiro Correa
+08/11/2012 19:07:40;31240;Idelvan Felipe Wolhmuth
+08/11/2012 19:07:52;31585;Andreia Antunes Teixeira
+08/11/2012 19:09:00;31479;Celio Picua
+08/11/2012 19:10:15;31448;Rafael Lordi
+08/11/2012 19:10:18;31141;Carim Maria Ribeiro
+08/11/2012 19:10:49;32773;Sonia Mara Da Silva Ribeiro
+08/11/2012 19:10:52;32605;Tatieli Rodrigues Ardenghi
+08/11/2012 19:10:56;32650;Leticia De Almeida Ardenghi
+08/11/2012 19:10:58;32643;Juliano Schoninger Fenner
+08/11/2012 19:11:00;30403;Caetano Teston Iung
+08/11/2012 19:11:11;31639;Tatiane Silva do Nascimento
+08/11/2012 19:11:13;31660;Francieli Silva dos Santos
+08/11/2012 19:11:15;32834;Leticia de Oliveira
+08/11/2012 19:11:18;31554;Raquel dos Reis Araujo
+08/11/2012 19:11:23;33497;Edinara Filipiak de Cristo
+08/11/2012 19:11:25;33503;Fernando de Cristo
+08/11/2012 19:13:28;31363;Andreia Barcarol
+08/11/2012 19:13:30;31394;Eliane Bublitz
+08/11/2012 19:13:32;31462;Cassiano Fernandes
+08/11/2012 19:13:35;30090;Marcelo Kunz
+08/11/2012 19:13:38;31578;Janaína Franciele Soares
+08/11/2012 19:13:46;30144;Darlan Dieterich
+08/11/2012 19:13:50;30687;Natanael Santi Dalbianco
+08/11/2012 19:13:58;33619;Daniela Garlet
+08/11/2012 19:14:04;33695;Juciele Aparecida da Silva
+08/11/2012 19:14:09;32407;Maik Basso
+08/11/2012 19:14:13;30557;Neimir Ruggini
+08/11/2012 19:14:20;31295;Deise Estival
+08/11/2012 19:14:38;33367;Carine Piovesan Lopes
+08/11/2012 19:14:41;30618;Mateus da Rosa Zanatta
+08/11/2012 19:14:49;31721;Camila Medeiros Pereira
+08/11/2012 19:14:50;31790;Angela Roberta da Silva
+08/11/2012 19:14:52;31769;Cledinara Albanio Pereira
+08/11/2012 19:15:06;33343;Adriana Pereira
+08/11/2012 19:15:25;32339;Daniel Prediger
+08/11/2012 19:15:30;32087;Juliano dos Santos
+08/11/2012 19:15:40;33671;Adriana Tederke
+08/11/2012 19:15:45;33688;Mateus Volpatto
+08/11/2012 19:15:59;33244;Juliano Alba
+08/11/2012 19:16:01;33251;Tamara Norbak
+08/11/2012 19:16:03;32629;Rafael Antonio Vitalli
+08/11/2012 19:16:04;32278;Lusimeri Orliczek Wink
+08/11/2012 19:16:06;32322;Gustavo Bathu Paulus
+08/11/2012 19:16:22;32193;Felipe Douglas de Albernaz Pereira
+08/11/2012 19:16:24;31431;Jarbas Neumann
+08/11/2012 19:16:25;32131;Maicon Falkemback
+08/11/2012 19:16:29;30625;Regis Titon
+08/11/2012 19:16:30;30885;Rafael Bertoletti
+08/11/2012 19:16:33;32124;Mateus Roberto Gerber
+08/11/2012 19:16:35;31332;Henrique Kerkhefen dos Santos
+08/11/2012 19:16:37;33565;Douglas Piovesan
+08/11/2012 19:17:15;32063;Marcos Antonio Cavasin
+08/11/2012 19:17:18;30052;Anderson Rodrigues Moro
+08/11/2012 19:17:20;32315;Juliano Barbosa Prettz
+08/11/2012 19:17:23;32889;Mateus Chimello
+08/11/2012 19:17:26;32346;Ricardo Augusto Ferrari
+08/11/2012 19:17:32;32896;Maik Frizon
+08/11/2012 19:17:34;32902;Luis Henrique Forchesatto
+08/11/2012 19:17:51;31851;Jose Torres
+08/11/2012 19:18:03;33763;Douglas Fernandes
+08/11/2012 19:18:07;33602;Jean Cesar Machado
+08/11/2012 19:18:08;33022;Felipe Gonçalves
+08/11/2012 19:18:43;30601;Dioni da Rosa
+08/11/2012 19:19:36;32735;Jardel Buzatto
+08/11/2012 19:19:51;32353;Eliseu Garbin
+08/11/2012 19:19:53;30779;Guilherme Bernardi
+08/11/2012 19:19:57;32360;Marcelo Garbin
+08/11/2012 19:20:18;32384;Orley Dyeison da Silva
+08/11/2012 19:21:08;30441;Maria Helena Franciscatto
+08/11/2012 19:21:12;30106;Matias Lazarotto
+08/11/2012 19:21:16;33756;Cristian Batista
+08/11/2012 19:21:18;33732;Naidu Gasparetto
+08/11/2012 19:21:20;33718;Felipe Copceski Rossatto
+08/11/2012 19:21:24;33725;Adriano de Barros
+08/11/2012 19:21:27;32827;Erivelton Paulo Da  Silva Rubin
+08/11/2012 19:21:30;33596;Matheus Orlandi de Castro
+08/11/2012 19:21:50;33633;Claudino Kosooski 
+08/11/2012 19:21:52;33152;Cleomar João Theisen
+08/11/2012 19:21:54;30717;Rudimar Remontti
+08/11/2012 19:21:56;30724;Iulisloi Zacarias
+08/11/2012 19:22:33;31745;Catia Tamara Scherer
+08/11/2012 19:22:35;31738;Andriéli Schmidt
+08/11/2012 19:22:59;30366;Jaqueson Ricardo Pertile
+08/11/2012 19:23:07;30434;Sergio Okamoto
+08/11/2012 19:23:31;31455;Diego Couto de Carvalho
+08/11/2012 19:23:35;30373;Fabrício Herpich
+08/11/2012 19:24:05;33572;Bernardo Andre Mantovani
+08/11/2012 19:24:08;33442;Gabriela Conterno Rodrigues
+08/11/2012 19:24:09;33381;Lucas Wilhelm
+08/11/2012 19:24:14;32209;Robson da Silva
+08/11/2012 19:24:19;31936;Emerson Luiz Balestrin
+08/11/2012 19:24:21;30168;Christopher Paladino do Nascimento
+08/11/2012 19:24:24;32865;Davi Daniel Gemmer
+08/11/2012 19:24:27;31707;Dirceu Oliveira da Costa
+08/11/2012 19:24:45;31783;Wilmar dos Santos Figueiró
+08/11/2012 19:24:49;31325;João Paulo Vieira
+08/11/2012 19:24:57;31400;Clebeson Zanchetta Moura
+08/11/2012 19:25:27;33046;Fabio Junior Nagoski
+08/11/2012 19:25:29;32940;Cristiano de Almeida Oliveira
+08/11/2012 19:25:32;32926;Andersson Marangon
+08/11/2012 19:25:55;31547;Jaqueline Pereira da Silva
+08/11/2012 19:25:58;31592;Rosiane Medeiros Manfio
+08/11/2012 19:26:00;32575;Elena Ardenghi Binello
+08/11/2012 19:26:03;32568;Angela Claudia Chicatto De Oliveira
+08/11/2012 19:26:05;32612;Maria Lenir Ardenghi Talamini
+08/11/2012 19:26:09;32711;Leila V. A. De Ardenghy
+08/11/2012 19:26:11;32704;Sandra Teresa Ardenghi
+08/11/2012 19:26:13;32636;Andrei Moura Talamini
+08/11/2012 19:26:16;32667;Sidimara Zanella da Silva
+08/11/2012 19:26:18;32759;Giovane R. Correa
+08/11/2012 19:26:22;33176;Saulo Lindner
+08/11/2012 19:26:43;31653;Maguisiel da Silva Santos
+08/11/2012 19:27:10;33053;Fabio Rossetto
+08/11/2012 19:27:26;32599;Juliano da Conceição
+08/11/2012 19:28:26;33091;Jucelia Cavazin
+08/11/2012 19:28:29;33107;Jucelia de Vargas Tonello
+08/11/2012 19:28:35;33169;Rosane Serpa
+08/11/2012 19:28:37;33121;Marivânia Lago
+08/11/2012 19:28:40;32919;Adriana Tonello Machado
+08/11/2012 19:28:42;32933;Andrea Rossetto
+08/11/2012 19:28:44;33770;Tobias da Silva
+08/11/2012 19:29:02;33206;Jasieli Tagliari
+08/11/2012 19:29:05;33213;Lisiane Mattei
+08/11/2012 19:29:20;30045;Marcelo Henrique Casali
+08/11/2012 19:30:05;30472;Augusto Rossetto
+08/11/2012 19:30:29;31134;Paulo Henrique Vianna
+08/11/2012 19:31:30;31882;Lucas Cassiano dos Santos
+08/11/2012 19:33:57;30793;Diego Vicente
+08/11/2012 19:34:01;31387;Natiel Cazarotto Chiavegatti
+08/11/2012 19:35:41;30205;Mateus Berlatto da Rosa
+08/11/2012 19:35:42;30205;Mateus Berlatto da Rosa
+08/11/2012 19:35:43;30205;Mateus Berlatto da Rosa
+08/11/2012 19:36:21;30267;Maria Teresa Correa Pavan
+08/11/2012 19:36:24;30236;Dione Dupont Eckhardt
+08/11/2012 19:37:28;30342;Jacson Luis Krotz
+08/11/2012 19:38:29;30748;Cláudio Roberto dos Santos
+08/11/2012 19:38:59;30120;Rômulo Vanzin
+08/11/2012 19:39:05;30274;Juliana de Fatima da Silva
+08/11/2012 19:40:33;31615;Juliane Moraes Ulbrich
+08/11/2012 19:40:37;31622;Andréia Teixeira Parnow
+08/11/2012 19:40:53;31608;Cassiano Tosetto
+08/11/2012 19:41:05;31523;Ricardo Pessotto
+08/11/2012 19:41:32;31677;Jonas da Silva
+08/11/2012 19:41:39;32582;Vanessa Ardenghi Binelo Sartori
+08/11/2012 19:41:53;30359;André Paulo Sartori
+08/11/2012 19:41:58;30137;João Paulo Fleck
+08/11/2012 19:49:01;33015;Sandra Novello
+08/11/2012 19:50:09;30595;André Luís Stefanello
+08/11/2012 19:50:15;30519;William Rodrigues da Fonseca Rech
+08/11/2012 19:50:21;30540;Teresinha Letícia da Silva
+08/11/2012 19:51:09;32308;Marlos Piazza
+08/11/2012 19:51:19;32025;Gilmar Vendruscolo
+08/11/2012 20:02:49;33640;Ricardo Fréu
+08/11/2012 20:15:50;30496;Karina Wiechork
+08/11/2012 20:15:52;32162;Darlan Eziquiel Felisberto da Silva
+08/11/2012 20:21:45;33749;Jefferson Dalanhol
+08/11/2012 20:26:15;31875;Marcio Andre Lowe
+08/11/2012 20:40:41;32377;Cristian Roberto Walter
+08/11/2012 20:40:42;32988;Clarice Lucia Krasnievicz
+08/11/2012 20:40:44;32506;Odair José Basso
+08/11/2012 20:40:46;32094;William da Silva
+08/11/2012 20:50:54;30038;Ezequiel Prezotto
+08/11/2012 20:51:33;30014;Bruno Batista Boniati
+08/11/2012 20:56:19;31271;Augusto Cássion Schefer
+08/11/2012 20:57:56;31288;Laíne Vaz da Silva
+08/11/2012 21:30:08;31387;Natiel Cazarotto Chiavegatti

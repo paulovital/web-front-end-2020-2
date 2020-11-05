@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .progress{
+            height: 20px;
+            width: 800px;
+            border: 1px solid gray;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .progress > div{
+            height: 20px;
+            background-color: red;
+            width: 0%;
+        }
+    </style>
+</head>
+<body>
+    <video  width="800">
+        <source src="video.mp4" type="video/mp4">
+        Seu browser não suporta a tag de vídeo.
+    </video>
+
+    <div class="progress">
+        <div></div>
+    </div>
+
+    <div>
+        <button id="play">Play</button>
+        <button id="pause">Pause</button>
+    </div>
+
+    <script>
+        function $(selector){
+            let elements = document.querySelectorAll(selector)
+            return ( elements.length > 1) ? elements : elements[0]
+        }
+        let video = $('video')
+        $('#play').onclick = () => {
+            video.play()
+        }
+        $('#pause').onclick = () => {
+            video.pause()
+        }
+        setInterval(() => {
+            let progress = (video.currentTime / video.duration) * 100
+            let div = $('.progress > div')
+            div.style.width = `${progress}%`
+        }, 100)
+    </script>
+</body>
+</html>

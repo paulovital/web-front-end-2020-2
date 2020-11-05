@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Cadastro de livro</title>
+        <style>
+            input, select{
+                display: block;
+                margin-bottom: 5px;
+                width: 40%;
+            }
+        </style>
+    </head>
+    <body>
+        <form action="" method="POST">
+            <label for="titulo">Titulo</label>
+            <input id="titulo" type="text" placeholder="Digite aqui o título"
+                name="titulo"
+                value="">
+            <label for="autor">Autor</label>
+            <input id="autor" type="text" placeholder="Digite aqui o nome do
+                autor"
+                name="autor" value="">
+            <label for="genero">Autor</label>
+            <select name="genero" id="genero">
+                <option value="">Selecione</option>
+                <option value="fantasia">Fantasia</option>
+                <option value="romance">Romance</option>
+                <option value="terror">Terror</option>
+            </select>
+            <label for="preco">Preço</label>
+            <input id="preco" type="number" placeholder="Preço"
+                name="preco" value="">
+            <label for="estoque">Estoque</label>
+            <input id="estoque" type="number" placeholder="Quantidade em
+                estoque"
+                name="estoque" value="">
+            <label for="preco_custo">Preço de custo</label>
+            <input id="preco_custo" type="number" placeholder="Preço de custo"
+                name="preco_custo" value="">
+            <label for="tem">Tem Ebook</label>
+            <input id="tem" type="radio" name="has_ebook" value="true">
+            <label for="nao_tem">Não tem Ebook</label>
+            <input id="nao_tem" type="radio" name="has_ebook" value="false">
+            <input type="submit" value="Cadastras Livro">
+        </form>
+    </body>
+</html>
