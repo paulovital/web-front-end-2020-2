@@ -11,23 +11,20 @@
         2 - viewport: vh (1/100 da altura da viewport), vw, vmin, vmax
         3 - font: rem, em
         */
-
-        html{height: 100vw; font-size: 24px;}
+        *{
+            margin: 0;
+            box-sizing: border-box;
+        }
+        
         body{
-            height: 100%;
-            background-image: linear-gradient(to top right, rgb(255, 0, 0, .8), transparent 30%), url('https://source.unsplash.com/random');
-            background-size: cover;
-            font-size: 16px;
-            font-size: 1em;
-            font-size: 100%;
-            font-size: 12pt;
+            background-color: black;
         }
         .c1{ background-color: chartreuse;}
         .c2{ background-color:coral;}
         .c3{ background-color:cornsilk;}
         .c4{ background-color:darkturquoise;}
         div{
-            width: 1cm;
+            width: 100px;
             height: 100px;
         }
         .c1{
