@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Propriedade position</title>
+    <style>
+        div{
+            font-size: 40px;
+            padding: 20px;
+            border: 1px solid black;
+        }
+        .static{
+            /* position: static; */
+            top: 20px;
+            left: 30px;
+        }
+        .fixed{
+            position: fixed;
+            bottom: 40px;
+            right: 10px;
+        }
+
+        .relative{
+            position: relative;
+            top: 20px;
+            left: 30px;
+        }
+
+        .absolute{
+            position: absolute;
+            top: 20px;
+            left: 30px;
+        }
+
+        .relative2{
+            position: relative;
+            top: 300px;
+            left: 400px;
+            width: 300px;
+            height: 300px;
+        }
+
+        .absolute2{
+            position: absolute;
+            top: 20px;
+            left: 30px;
+            width: 200px;
+            height: 200px;
+        }
+
+        .sticky{
+            position: sticky;
+            top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="static">Static (padrão)</div>
+    <div class="fixed">Fixed</div>
+    <div class="relative">Relative</div>
+    <div class="absolute">Absolute</div>
+    <div class="relative2">
+        <div class="absolute2">Absolute 2</div>
+    </div>
+    <div class="sticky">Sticky</div>
+    <p style="padding-bottom: 1000px;"></p>
+    <script>
+        function hexcolor(){
+            var color = (function(m,s,c){return (c ? arguments.callee(m,s,c-1) : '#') +
+            s[m.floor(m.random() * s.length)]})(Math,'0123456789ABCDEF',5);
+            return color;
+        }
+        document.querySelectorAll('div').forEach(div => {
+            div.style.backgroundColor = hexcolor()
+        })
+    </script>
+</body>
+</html>

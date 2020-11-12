@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid</title>
+    <style>
+        html{height: 100%;}
+        body{
+            margin: 20px;
+            height: calc(100% - 40px);
+            background-color: rgb(149, 149, 149);
+        }
+
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid green;
+            background-color: rgb(235, 235, 235);
+            font-size: 30px;
+        }
+
+        body{
+            display: grid;
+            grid-template-columns: 30% 70%;
+            grid-template-columns: repeat(12, 8.33%);
+            grid-template-columns: 200px 20% 1fr;
+            grid-template-columns: 3fr 6fr 3fr;
+            grid-template-rows: 50% 25% 12.5% 12.5%;
+            grid-template-rows: 100px 2fr 2fr 2fr;
+            grid-template-rows: 200px auto auto auto;
+
+        }
+
+        .c8{
+            grid-column-start: 2;
+            grid-column-end: 4;
+            grid-column-end: span 2;
+            grid-row-start: 3;
+            grid-row-end: 5;
+        }
+
+        .c10, .c11{
+            grid-column-start: 1;
+            grid-column-end: 3;
+            grid-row-start: 5;
+            grid-row-end: span 1;
+        }
+
+        .c10{
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="c1">1</div>
+    <div class="c2">2</div>
+    <div class="c3">3</div>
+    <div class="c4">4</div>
+    <div class="c5">5</div>
+    <div class="c6">6</div>
+    <div class="c7">7</div>
+    <div class="c8">8</div>
+    <div class="c9">9</div>
+    <div class="c10">10</div>
+    <div class="c11">11</div>
+    <div class="c12">12</div>
+</body>
+</html>

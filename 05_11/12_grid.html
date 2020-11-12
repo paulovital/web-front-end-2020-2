@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid</title>
+    <style>
+        html{height: 100%;}
+        body{
+            margin: 20px;
+            height: calc(100% - 40px);
+            background-color: rgb(149, 149, 149);
+        }
+
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid green;
+            background-color: rgb(235, 235, 235);
+            font-size: 30px;
+        }
+
+        body{
+            display: grid;
+            grid-template-columns: [linha1] 1fr [linha2] 1fr [linha3] 1fr [linha4];
+            grid-template-rows: repeat(3, 1fr);
+            column-gap: 10px;
+            row-gap: 10px;
+        }
+
+        .c1{
+            grid-column-start: linha2;
+            grid-column-end: linha4;
+        }
+    </style>
+</head>
+<body>
+    <div class="c1">1</div>
+    <div class="c2">2</div>
+    <div class="c3">3</div>
+</body>
+</html>

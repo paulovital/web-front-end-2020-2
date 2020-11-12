@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media queries</title>
+    <style>
+        div{
+            font-size: 40px;
+            border: 1px solid green;
+            background-color: hotpink;
+            display: none;
+        }
+
+        @media (min-width: 540px) and (orientation: portrait){
+            div{
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>Uma div qualquer</div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid 3</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        body{
+            font-size: 30px;
+        }
+
+        main, header, footer, nav{
+            border: 1px solid #000;
+        }
+
+        header{
+            grid-area: cabecalho;
+        }
+
+        nav{
+            grid-area: navegacao;
+        }
+
+        footer{
+            grid-area: rodape;
+        }
+
+        main{
+            grid-area: conteudo;
+        }
+
+        body{
+            display: grid;
+            min-height: 100vh;
+            grid-template-columns: 300px 1fr;
+            grid-template-rows: 100px 1fr 100px;
+            grid-template-areas: 
+                'cabecalho cabecalho'
+                'navegacao conteudo'
+                'rodape rodape';
+        }
+
+        @media (max-width: 700px){
+            body{
+                grid-template-columns: 1fr;
+                grid-template-rows: 80px 80px 1fr 100px;
+                grid-template-areas:
+                    'cabecalho'
+                    'navegacao'
+                    'conteudo'
+                    'rodape'
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>conteúdo</main>
+    <header>cabeçalho</header>
+    <footer>rodapé</footer>
+    <nav>navegação</nav>
+</body>
+</html>
