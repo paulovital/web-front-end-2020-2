@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planeta Júpiter</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            height: 100vh;
+            background-color: black;
+        }
+
+        .planet{
+            background-image: url('jupiter.jpg');
+            width: 400px;
+            height: 400px;
+            position: absolute;
+            left: calc(50% - 200px);
+            top: calc(50% - 200px);
+            border-radius: 50%;
+            animation-name: rotacao;
+            animation-duration: 30s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            animation-direction: reverse;
+
+        }
+
+        @keyframes rotacao {
+            0% {background-position: 0 0;}
+            100% {background-position: 100% 0;}
+        }
+
+        .planet::before{
+            position: absolute;
+            left: -5px;
+            content: '';
+            display: block;
+            border-radius: 50%;
+            width: 400px;
+            height: 400px;
+            box-shadow: inset 20px 0 20px #000;
+            background: linear-gradient(to left, transparent 30%,  #000);
+        }
+
+        /* box-shadow: [dist horizontal] [dist vertical] [blur] [opcional (spread|extensao)] [cor] */
+    </style>
+</head>
+<body>
+    <div class="planet"></div>
+</body>
+</html>
