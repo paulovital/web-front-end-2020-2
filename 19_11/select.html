@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: selecionando elementos</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+        *, *::before, *::after{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            font-size: 2rem;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        div{
+            border: 3px solid #000;
+            padding: 5px 10px;
+            margin: 10px auto;
+            width: 200px;
+            text-align: center;
+        }
+
+        .black{
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div id="primeiro">#primeiro</div>
+    <div>segundo</div>
+    <div class="terceiro"><span class="terceiro">.terceiro</span></div>
+    <script>
+        const element = document.getElementById('primeiro')
+        element.classList.add('black')
+        element.classList.remove('black')
+
+        let divs = document.getElementsByTagName('div')
+        //divs = Array.from(divs)
+        divs = [...divs]
+        divs.forEach(div => {
+            div.classList.add('black')
+        });
+        divs[0].classList.remove('black')
+
+        Array.from(document.getElementsByClassName('terceiro'))
+            .forEach(e => {
+                e.classList.remove('black')
+            })
+
+        const black = (selector) => {
+            let results = document.querySelectorAll(selector)
+            if(results && results.length > 0){
+                results.forEach(e => {
+                    e.classList.add('black')
+                })
+            }
+        }
+
+        const white = (selector) => {
+            let results = document.querySelectorAll(selector)
+            if(results && results.length > 0){
+                results.forEach(e => {
+                    e.classList.remove('black')
+                })
+            }
+        }
+
+        black('div')
+        white('*')
+        black('div:nth-child(2)')
+        black('span')
+        white('*')
+
+        let lastDiv = document.querySelector('div:nth-child(3)')
+
+        lastDiv.classList.toggle('black')
+        lastDiv.classList.toggle('black')
+        lastDiv.classList.toggle('black')
+        if(lastDiv.classList.contains('black')){
+            alert('tem')
+        }
+    </script>
+</body>
+</html>

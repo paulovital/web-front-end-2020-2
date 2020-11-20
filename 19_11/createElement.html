@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: criando elementos</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+        *, *::before, *::after{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            font-size: 2rem;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        div{
+            border: 3px solid #000;
+            padding: 5px 10px;
+            margin: 10px auto;
+            width: 200px;
+            text-align: center;
+        }
+
+        .black{
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        let div1 = document.createElement('div')
+        div1.classList.add('black')
+        div1.innerHTML = '<i>qualquer coisa</i>'
+        document.querySelector('body').appendChild(div1)
+
+        let texto = document.createTextNode('texto')
+
+        div1.insertBefore(texto, div1)
+        //div1.outerHTML = '<header>nada</header>'
+
+        div1.insertAdjacentHTML('beforebegin', '<p>Antes de iniciar o elemento</p>')
+        div1.insertAdjacentHTML('afterbegin', '<p>Depois de iniciar o elemento</p>')
+        div1.insertAdjacentHTML('beforeend', '<p>Antes de terminar o elemento</p>')
+        div1.insertAdjacentHTML('afterend', '<p>Depois de terminar o elemento</p>')
+    </script>
+</body>
+</html>

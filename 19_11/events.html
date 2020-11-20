@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: eventos</title>
+    <style>
+        body{
+            background-color: cadetblue;
+            font-size: 40px;
+            color: white;
+        }
+        div{
+            border: 3px solid white;
+            padding: 5px;
+            background-color: coral;
+            width: 200px;
+            text-align: center;
+            position: absolute;
+            left: calc(50% - 100px);
+        }
+    </style>
+</head>
+<body>
+    <div>DIV</div>
+    <script>
+        // document.addEventListener('DOMContentLoaded', function(e){
+        //     alert('carregou')
+        // })
+        const item = document.querySelector('div')
+        item.onmousemove = e => {
+            item.style.cursor = 'move'
+            let div = e.target
+            if(e.buttons){
+                div.style.top = `${e.clientY - item.clientHeight/2}px`
+                div.style.left = `${e.clientX - item.clientWidth/2}px`
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: selecionando coleções de elementos</title>
+</head>
+<body>
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+    <a href="#">Link 4</a>
+
+    <script>
+        let links = Array.from(document.links)
+        links.forEach(a => {
+            a.style['text-decoration'] = 'none'
+            a.style.display = 'inline-block'
+            a.style.width = '50px'
+            a.style['height'] = '30px'
+            a.style.border = '1px solid black'
+            a.style.color = '#fff'
+            a.style.backgroundColor = 'green'
+        })
+    </script>
+</body>
+</html>

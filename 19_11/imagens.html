@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: Acessando atributos</title>
+</head>
+<body>
+    <img src="img1.jpg" alt="Casa laranja" width="300px" img-slider data-jp="eu" data-color="blue">
+
+    <script>
+        let img = document.querySelector('[img-slider]')
+        console.log(img.src)
+        console.log(img.jpimg)
+        console.log(img.getAttribute('jpimg'))
+        img.setAttribute('jpimg', 'false')
+        img.width = 500
+        console.log(img.dataset.color)
+
+        console.log(img.nodeName)
+        console.log(img.nodeType)
+        let src = img.getAttributeNode('src')
+        console.log(src.nodeValue)
+    </script>
+</body>
+</html>

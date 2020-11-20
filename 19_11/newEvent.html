@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: novo evento</title>
+</head>
+<body>
+    <!--https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events-->
+    <span>Qualquer</span>
+    <a href="https://www.google.com">Google</a>
+
+    <script>
+        form.onsubmit = e => {
+            e.preventDefault()
+
+        }
+
+        function clickEmMim(e){
+            e.preventDefault()
+            setTimeout(() => {
+                window.location.href = e.target.href
+            }, 3000)
+        }
+
+        let span  = document.querySelector('span')
+        
+        const evento = new Event('teste')
+        span.addEventListener('teste', function(e){
+            alert('ocorreu')
+        })
+
+        //span.dispatchEvent(evento)
+    </script>
+</body>
