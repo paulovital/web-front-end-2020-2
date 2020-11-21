@@ -38,16 +38,20 @@
         div1.classList.add('black')
         div1.innerHTML = '<i>qualquer coisa</i>'
         document.querySelector('body').appendChild(div1)
+        
+        let span = document.createElement('span')
+        div1.appendChild(span)
 
         let texto = document.createTextNode('texto')
+        // span é filho de div1. Neste caso, insere o texto antes do span
+        div1.insertBefore(texto, span) 
 
-        div1.insertBefore(texto, div1)
         //div1.outerHTML = '<header>nada</header>'
 
-        div1.insertAdjacentHTML('beforebegin', '<p>Antes de iniciar o elemento</p>')
-        div1.insertAdjacentHTML('afterbegin', '<p>Depois de iniciar o elemento</p>')
-        div1.insertAdjacentHTML('beforeend', '<p>Antes de terminar o elemento</p>')
-        div1.insertAdjacentHTML('afterend', '<p>Depois de terminar o elemento</p>')
+        // div1.insertAdjacentHTML('beforebegin', '<p>Antes de iniciar o elemento</p>')
+        // div1.insertAdjacentHTML('afterbegin', '<p>Depois de iniciar o elemento</p>')
+        // div1.insertAdjacentHTML('beforeend', '<p>Antes de terminar o elemento</p>')
+        // div1.insertAdjacentHTML('afterend', '<p>Depois de terminar o elemento</p>')
     </script>
 </body>
 </html>
