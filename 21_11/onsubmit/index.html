@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM: form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form>
+        <div class="form-header">
+            <h3>Cadastro</h3>
+        </div>
+        <div class="alert"></div>
+        <div class="form-div">
+            <label for="nome">Nome </label>
+            <input type="text" required id="nome" placeholder="Informe seu nome">
+        </div>
+        <div class="form-div">
+            <label for="email">Email</label>
+            <input type="email" required name="email" id="email" placeholder="Informe seu email">
+        </div>
+        <div class="form-div">
+            <label for="senha">Senha</label>
+            <input type="password" required name="senha" id="senha" placeholder="Informe a senha">
+        </div>
+        <div class="form-div">
+            <label for="senha2">Confirmação</label>
+            <input type="password" required name="senha2" id="senha2" placeholder="Confirme  a senha">
+        </div>
+        <div class="form-div">
+            <button type="reset">Limpar</button>
+            <button type="submit">Cadastrar</button>
+        </div>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
